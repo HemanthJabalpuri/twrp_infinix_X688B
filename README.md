@@ -1,19 +1,16 @@
-## TWRP for Infinix Zero 8 X687
+## TWRP for Infinix Hot 10 Play X688B
 
 ### Working
-- Decryption
-- MTP
-- fastbootd
-- USB OTG
+- Need to test
 
 ### Issues
-- Let me know if you find anything
+- Need to test
 
 
 ### Specifications
-- See https://m.gsmarena.com/infinix_zero_8-10401.php
+- See https://www.infinixmobility.com/smartphone/hot-10-play
 
 ### Credits
 - @mastersenpai05 for initial tree
-- @kusti420 for infinite testing
+- @kusti420 for infinite testing in Infinix Zero 8
 - @lopestom for **Blu G90 Pro** TWRP at [here](https://github.com/lopestom/device_TWRP-PBRP_BLU_G0370WW)
